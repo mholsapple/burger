@@ -1,3 +1,7 @@
+body{
+	background: #df6300;
+}
+
 li {
   background: #FAEBD7;
   margin: 5px;
@@ -13,8 +17,8 @@ ul {
 }
 
 .create-update-form {
-  background: aqua;
-  margin: 5px;
+  background: #FAEBD7;
+  margin: 45px;
   padding: 5px;
 }
 
